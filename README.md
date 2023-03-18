@@ -1,2 +1,2 @@
 # 07APP
-07APP (Android), an application which helps release pressure by exalting each other on pad.
+for you, for me, for health, for better
